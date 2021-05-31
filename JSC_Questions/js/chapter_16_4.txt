@@ -1,0 +1,13 @@
+function chapter_16_4_Q_1(context, x1,y1,x2,y2,x3,y3,x4,y4){
+	var pointA =  new Point(x1,y1);
+	var pointB =  new Point(x2,y2);
+	var pointC =  new Point(x3,y3);
+	var pointD =  new Point(x4,y4);
+	
+	var retangle = new Rectangle(pointA,pointB,pointC,pointD);
+	drawRectangle(context, retangle);
+	displayText(context,x2+30,y2+20,"x মিটার ");
+	writeRotatedText(context,"2x মিটার",pointB,10,-3,-Math.PI/2);
+
+	
+}
