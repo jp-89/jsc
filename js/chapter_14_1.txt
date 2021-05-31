@@ -1,0 +1,32 @@
+function chapter_14_1_Q_1_pic1(context, x1,y1,x2,y2,x3,y3,extension,increaseLength){
+	var pointA =  new Point(x1,y1);
+	var pointB =  new Point(x2,y2);
+	var pointC =  new Point(x3,y3);
+	setPointName(pointA,"A");
+	setPointName(pointB,"B");
+	setPointName(pointC,"C");
+
+	displayPointName(context,pointA,x1,y1-10);
+	displayPointName(context, pointB,x2-15,y2+20);
+	displayPointName(context,pointC,x3+10,y3+20);
+
+	var triangle = new Triangle(pointA,pointB,pointC);
+	drawTriangle(context, triangle);
+	var pointD = midPointBetweenTwoPoint(pointB,pointC );
+	var pointE = midPointBetweenTwoPoint(pointA,pointC );
+	var pointF = midPointBetweenTwoPoint(pointA,pointB );
+	drawPoint(context,pointD, "red");
+	drawPoint(context,pointE, "red");
+	drawPoint(context,pointF, "red");
+	setPointName(pointD,"D");
+	setPointName(pointE,"E");
+	setPointName(pointF,"F");
+	setContextColor(context, "black");
+	
+	displayPointName(context,pointD,pointD.x,pointD.y+15);
+	displayPointName(context,pointE,pointE.x+10,pointE.y);
+	displayPointName(context,pointF,pointF.x-10,pointF.y);
+
+	displayName(context,x2+40,y2+35,"চিত্র :১");	
+
+}
