@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Chapter 10.1 Question 2</title>
+
+</head>
+<body >
+
+<span class ="topic_explanation_color">
+১০.১.২।  <span class ="question_color"> x এর ঘাতের  ঊধর্বক্রম অনুসারে </span><BR>
+<span class ="sub_question_color">
+(a)    $(1+4x)^6$ <BR>
+(b)    $(1-3x)^7$ <BR>
+ এর  প্রথম চার পদ পর্যন্ত  বিস্তৃতি নির্ণয় কর<BR>
+ </span><BR>
+ <span class ="question_color"> ১০.১.২(a) x এর ঘাতের  ঊধর্বক্রম অনুসারে <BR>
+    $(1+4x)^6$  এর  প্রথম চার পদ পর্যন্ত  বিস্তৃতি নির্ণয় কর<BR>
+ </span><BR>
+ <span class ="solveColor">সমাধান:</span><BR>
+  <span class ="reason_color">দ্বিপদী  বিস্তৃতি উপপাদ্যের  সাহায্যে আমরা পাই,</span><BR>
+$(1+y)^6= ( \table \6;\0)y^0 + ( \table \6;\1)y^1 + ( \table \6;\2)y^2 + ( \table \6;\3)y^3+ ...$<BR>
+= $ {6!}/{0! (6-0)!}y^0 + {6!}/{1! (6-1)!}y^1+{6!}/{2! (6-2)!}y^2+{6!}/{3! (6-3)!}y^3+... $<BR><BR>
+= $ 1 + {6.5!}/{1! . 5!}y^1+{6.5.4!}/{2! 4!}y^2+{6.5.4.3!}/{3! 3!}y^3+... $<BR><BR>
+= $ 1 + 6y+{6.5.}/{2!}y^2+{6.5.4}/{3!}y^3+... $<BR><BR>
+= $ 1 + 6y+{6.5.}/{2}y^2+{6.5.4}/{3.2}y^3+... $<BR><BR>
+= $ 1 + 6y+15y^2+20y^3+... $<BR><BR>
+ <span class ="reason_color">অতএব, বিস্তৃতি এর প্রথম চার পদ নিম্নরূপ</span><BR>
+<span class ="decision_result_color">$(1+y)^6= 1 + 6y+15y^2+20y^3+...$</span><BR><BR>
+<span class ="reason_color">এখন, $  y = 4x$ মান বসিয়ে পাই,</span><BR>
+$(1+4x)^6=1 + 6(4x)+15(4x)^2+20(4x)^3+..$<BR>
+= <span class ="decision_result_color">$1 + 24x+240x^2+1280x^3..$</span> ...(1)<BR><BR>
+  <span class ="reason_color">অতএব, বিস্তৃতি এর প্রথম চার পদ নিম্নরূপ</span><BR>
+$(1+4x)^6=1+24x +240x^2+1280x^3+.....$<BR>
+
+ <BR><BR>
+ 
+<span class ="question_color"> ১০.১.২(b) x এর ঘাতের  ঊধর্বক্রম অনুসারে <BR>
+    $(1-3x)^7$  এর  প্রথম চার পদ পর্যন্ত  বিস্তৃতি নির্ণয় কর<BR>
+ </span><BR>
+
+ <span class ="reason_color">দ্বিপদী  বিস্তৃতি উপপাদ্যের  সাহায্যে আমরা পাই,</span><BR>
+$(1+y)^7= ( \table \7;\0)y^0 + ( \table \7;\1)y^1 + ( \table \7;\2)y^2 + ( \table \7;\3)y^3+ ...$<BR>
+= $ {7!}/{0! (7-0)!}y^0 + {7!}/{1! (7-1)!}y^1+{7!}/{2! (7-2)!}y^2+{7!}/{3! (7-3)!}y^3+... $<BR><BR>
+= $ 1 + {7.6!}/{1! . 6!}y^1+{7.6.5!}/{2! 5!}y^2+{7.6.5.4!}/{3! 4!}y^3+... $<BR><BR>
+= $ 1 + 7y+{7.6}/{2!}y^2+{7.6.5}/{3!}y^3+... $<BR><BR>
+= $ 1 + 7y+21y^2+{7.6.5}/{3.2}y^3+... $<BR><BR>
+= $ 1 + 7y+21y^2+35y^3+... $<BR><BR>
+ <span class ="reason_color">অতএব, বিস্তৃতি এর প্রথম চার পদ নিম্নরূপ</span><BR>
+<span class ="decision_result_color">$(1+y)^7=  1 + 7y+21y^2+35y^3+...$</span><BR><BR>
+<span class ="reason_color">এখন, $  y = -3x$ মান বসিয়ে পাই,</span><BR>
+$(1-3x)^7=1 + 7(-3x)+21(-3x)^2+35(-3x)^3+.....$<BR><BR>
+$(1-3x)^7=1 -21x+189x^2+35(-3x)^3+.....$<BR><BR>
+ 
+ 
+ <span class ="reason_color">অতএব, বিস্তৃতি এর প্রথম চার পদ নিম্নরূপ</span><BR>
+<span class ="decision_result_color">$(1-3x)^7=1-21x+189x^2-945x^3+......$</span> <BR>
+
+ <BR><BR>
+  <span class ="reason_color">বিকল্প সমাধান :</span><BR>
+
+
+<span class ="question_color"> ১০.১.২(a) x এর ঘাতের  ঊধর্বক্রম অনুসারে <BR>
+    $(1+4x)^6$  এর  প্রথম চার পদ পর্যন্ত  বিস্তৃতি নির্ণয় কর<BR>
+ </span><BR>
+ <span class ="solveColor">সমাধান:</span><BR>
+<span class ="reason_color">প্যাসকেলের ত্রিভুজ টেবিল থেকে পাই, ঘাতের শক্তি  6  এর ক্ষেত্রে,</span><BR>
+বিস্তৃতির সহগ সমূহ  হল:   <span class ="decision_result_color">1, 6, 15, 20, 15,6, 1 </span><BR>
+
+সুতরাং,<BR>
+<span class ="decision_result_color">$(1+y)^6=1+6y +15y^2+20y^3+15y^4+6y^5+y^6$</span><BR>
+<span class ="reason_color">এখন, $  y = 4x$ মান বসিয়ে পাই,</span><BR>
+
+$(1+4x)^6=1+6(4x) +15(4x)^2+20(4x)^3+15(4x)^4+6(4x)^5+(4x)^6$<BR>
+=$1+24x +240x^2+1280x^3+15(4x)^4+......+(4x)^6$<BR><BR>
+ <span class ="reason_color">অতএব, বিস্তৃতি এর প্রথম চার পদ নিম্নরূপ</span><BR>
+<span class ="decision_result_color">$(1+4x)^6=1+24x +240x^2+1280x^3+.....$</span> <BR>
+
+<BR><BR>
+
+
+<span class ="question_color"> ১০.১.২(b) x এর ঘাতের  ঊধর্বক্রম অনুসারে <BR>
+    $(1-3x)^7$  এর  প্রথম চার পদ পর্যন্ত  বিস্তৃতি নির্ণয় কর<BR>
+ </span><BR>
+
+<span class ="reason_color">প্যাসকেলের ত্রিভুজ টেবিল থেকে পাই, ঘাতের শক্তি  7  এর ক্ষেত্রে,</span><BR>
+বিস্তৃতির সহগ সমূহ  হল:   <span class ="decision_result_color">1, 7, 21, 35, 35, 21,7, 1 </span><BR>
+
+সুতরাং,<BR>
+<span class ="decision_result_color">$(1+y)^7=1+7y +21y^2+35y^3+35y^4+21y^5+7y^6+y^7$</span><BR>
+<span class ="reason_color">এখন, $  y = -3x$ মান বসিয়ে পাই,</span><BR>
+
+$(1-3x)^7=1+7(-3x) +21(-3x)^2+35(-3x)^3+35(-3x)^4+21(-3x)^5+7(-3x)^6+(-3x)^7$<BR>
+=$1-21x+189x^2-945x^3+2835x^4+.....$<BR><BR>
+ <span class ="reason_color">অতএব, বিস্তৃতি এর প্রথম চার পদ নিম্নরূপ</span><BR>
+<span class ="decision_result_color">$(1-3x)^7=1-21x+189x^2-945x^3+......$</span> <BR>
+
+</span>
+<BR><BR>
+<BR><BR>
+</body>
+</html>

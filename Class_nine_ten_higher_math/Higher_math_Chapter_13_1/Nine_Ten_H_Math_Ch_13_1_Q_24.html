@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Rectangle.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/Circle.js"></script>
+
+	<script src ="../../js/Higher_Math_chapter_13_1.js"></script>
+	
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Higher Math class Nine Ten Chapter 13. Question 9</title>
+<script type="application/javascript">
+function loadFunctionsOnLoad(){
+
+var canvas1 = document.getElementById('myCanvas1'); // canvas with id="myCanvas"
+ var context1 = canvas1.getContext('2d');
+
+ Higher_Math_chapter_13_Q_24(context1, 80,80);
+  
+}
+
+</script>
+</head>
+<body onload="loadFunctionsOnLoad();">
+
+<span class ="topic_explanation_color">
+১৩.২৪। <span class ="question_color"> কোণক আকারের একটি তাবুর উচ্চতা 7.5 মিটার। এই তাবু দ্বারা 2000 বর্গ মিটার জমি ঘিরতে চাইলে কি পরিমাণ ক্যানভাস লাগবে? 
+   </span>
+ <BR>
+ <span class ="given_value_color">
+প্রশ্নানুসারে, কোণক দ্বারা আবৃত জমিটি বৃত্তাকার।
+</span>
+<BR>
+ মনে করি,  কোণকটি নিম্নরূপ:<BR>
+ <canvas id="myCanvas1" width="220" height="200">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+<BR>
+
+
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="given_value_color">
+
+
+কোণকের উচ্চতা OA=h=7.5 সে.মি.<BR>
+ভূমির ব্যাসার্ধ =OC=r সে.মি.<BR> 
+হেলানো উচ্চতা = AC= L <BR>
+</span>
+<BR>
+বৃত্তাকার জমিটির ক্ষেত্রফল = $ πr^2$<BR><BR>
+সুতরাং,
+$πr^2=2000$<BR>
+বা, $r^2={2000}/{ π} $<BR><BR>
+বা, $r^2={2000}/{3.1416} $<BR><BR>
+বা, $r^2=636.62$<BR>
+বা, <span class ="question_color"> $r=25.2312$</span><BR><BR>
+ 
+এখন,<BR>
+
+<span class ="reason_color">হেলানো তলের উচ্চতা  AC = L=$√{r^2+h^2}$</span><BR><BR>
+=$√{(25.2312)^2+(7.5)^2} $<BR>
+=$√{636.6134+56.25} $<BR>
+=$√{692.8634} $<BR>
+=<span class ="question_color">$26.3223$</span><BR><BR>
+
+এখন,<BR>
+<span class ="reason_color">ক্যানভাসেরপরিমাণ = বক্রতলের ক্ষেত্রফল।</span><BR>
+=$πrL $<BR>
+=$3.1416&times;25.2312&times;26 3223$<BR>
+= <span class ="question_color">$ 2086. 47$ </span> সে.মি.
+ 
+
+
+</span>
+<BR><BR><BR><BR>
+</body>
+</html>
