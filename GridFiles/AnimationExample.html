@@ -1,0 +1,42 @@
+﻿<html>
+<head>
+<script src ="../js/graph.js"></script>
+<script src ="../js/GeometricAnimation.js"></script>
+<script type="application/javascript">
+function drawAnimation(){
+ var canvas = document.getElementById('myCanvas');
+ var context = canvas.getContext('2d');
+      var x = canvas.width / 2;
+      var y = canvas.height / 2;
+      var radius = 75;
+      var startAngle = 1.5 * Math.PI;
+      var curVal = 0;
+      var endAngle = 0 * Math.PI;
+      var counterClockwise = false;
+	doAnimation(context,x,y,radius,counterClockwise);
+	 // http://jsfiddle.net/loktar/97dUJ/1/
+	 alert("mm");
+
+}
+
+
+
+
+</script>
+<style type="text/css">
+#canvas-tutorial
+{
+  border: 1px solid #000000;
+}
+</style>
+</head>
+<body onload="drawAnimation();">
+//http://www.html5canvastutorials.com/labs/html5-canvas-graphing-an-equation/<BR>
+<canvas id="myCanvas" width="575" height="250">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+
+
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿<html>
+<head>
+<script src ="../js/graph.js"></script>
+<script src ="../js/PointLine.js"></script>
+<script type="application/javascript">
+function drawGrid() {
+    var canvas = document.getElementById('myCanvas'); // canvas with id="myCanvas"
+    var context = canvas.getContext('2d');
+     var graphGrid = new GraphGrid(context,300,200,20);
+	 drawLineBetweenTwoPoints(context,new Point(20,100),new Point(200,25),"red");
+	 drawLineBetweenTwoPoints(context,new Point(20,50),new Point(200,225),"blue");
+	 PointOfIntersection(new Line(20,100,200,25), new Line(20,50,200,225));
+	 drawLineInGraphBetweenTwoPointsAxis(graphGrid,-2,-3,2,4,"purple",5,5);
+   }
+
+</script>
+<style type="text/css">
+#canvas-tutorial
+{
+  border: 1px solid #000000;
+}
+</style>
+</head>
+<body onload="drawGrid();">
+//http://www.html5canvastutorials.com/labs/html5-canvas-graphing-an-equation/<BR>
+<canvas id="myCanvas" width="300" height="200">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+
+
+
+</body>
+</html>
