@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+	 <script src ="../../js/Circle.js"></script>
+	 <script src ="../../js/Rectangle.js"></script>
+	  <script src ="../../js/Higher_Math_chapter_1_1.js"></script>
+	  <script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	
+
+	 
+	 <script type="application/javascript">
+  function functionsOnLoad(){
+    var canvas2 = document.getElementById('myCanvas2'); 
+    var context2 = canvas2.getContext('2d');
+	Higher_Math_chapter_1_1_Q_20(context2,20,20,250,20,250,200,20,200);
+   
+}
+
+</script>
+
+
+<title> Chapter 1.1 Question 20</title>
+</head>
+<body onload="functionsOnLoad();">
+<span class ="topic_explanation_color">
+১.১.২০। <span class ="question_color">
+ভেনচিত্রে A,B ,C সেটের উপাদানগুলো এমনভাবে দেওয়া আছে, যেন  $ U = A ∪B ∪ C $</span><BR>
+ <span class ="sub_question_color">
+(a) যদি  $n(U) = 50 $  হয়, তবে x এর মান নির্ণয় কর। <BR>
+(b) $n (B ∩ C^' )$  এবং  $ n (A^' ∩ B  )$ এর মান নির্ণয় কর।<BR>
+(c ) n (A  ∩  B ∩ C^' )  এর মান নির্ণয় কর।
+</span>
+<BR><BR>
+
+
+
+<canvas id="myCanvas2" width="270" height="270">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="question_color"> 
+(a) যদি  $n(U) = 50 $  হয়, তবে x এর মান নির্ণয় কর। <BR>
+</span><BR>
+
+<span class ="reason_color"> ভেনচিত্র থেকে পাই,
+  </span><BR>
+   $n(U) = 2x + x+1 + x-1 +2+3+0+x+5$<BR>
+   =$5x+10$<BR><BR>
+   <span class ="reason_color">শর্তানুসারে,</span><BR>
+   $5x+10=50$<BR>
+       বা,  $5x=50-10$<BR>
+        বা,  $5x=40$<BR>
+ বা,  $x={40}/5$<BR>
+  বা,  <span class ="decision_result_color">$x=8$</span><BR><BR>
+  
+  
+  <span class ="question_color"> 
+(b) $n (B ∩ C^' )$  এবং  $ n (A^' ∩ B  )$ এর মান নির্ণয় কর।<BR>
+</span><BR>
+  
+    $n(B ∩C^' ) =  n(B) - n(B ∩C)$<BR>
+    <span class ="decision_result_color">সাধারণ কথায় B থেকে  B এবং  C এর সাধারণ উপাদান সমূহ বাদ</span><BR>
+    
+   <span class ="reason_color"> মান বসিয়ে পাই,</span><BR>
+   =$(x+1+x-1+3)-3$<BR>
+   =$2x$<BR>
+    =$2&times;8$<BR>
+    =<span class ="decision_result_color">$16$</span><BR><BR>
+    
+    এখন,<BR>
+    $ n (A^' ∩ B  )= n (B∩   A^' )$<BR>
+    =$ n(B) - n(B ∩A)$<BR>
+        <span class ="decision_result_color">সাধারণ কথায় B থেকে  A এবং  B এর সাধারণ উপাদান সমূহ বাদ।</span><BR>
+     =$ (x+1+x-1+3) - (x+1+3$<BR>
+     =$x-1$<BR>
+     =$8-1$<BR>
+     =<span class ="decision_result_color">$7$</span><BR>
+    <BR>
+    
+     <span class ="question_color"> 
+(c ) n (A  ∩  B ∩^' C )  এর মান নির্ণয় কর।
+</span><BR>
+  
+    $n (A  ∩  B ∩ C^' ) =  n (A  ∩  B ∩ C^' )$<BR>
+    <span class ="decision_result_color">সাধারণ কথায় A B এর সাধারণ উপাদানথেকে  A,B এবং  C এর সাধারণ উপাদান সমূহ বাদ</span><BR>
+    
+   <span class ="reason_color"> মান বসিয়ে পাই,</span><BR>
+   =$(x+1+3)-3$<BR>
+   =$x+1<BR>
+    =$8+1$<BR>
+    =<span class ="decision_result_color">$9$</span><BR><BR>
+    
+    
+  
+ 
+
+</span>
+</body>
+</html>

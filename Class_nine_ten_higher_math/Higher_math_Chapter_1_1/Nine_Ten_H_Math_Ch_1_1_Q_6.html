@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	 <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+	 <script src ="../../js/Circle.js"></script>
+	 <script src ="../../js/Rectangle.js"></script>
+	  <script src ="../../js/Higher_Math_chapter_1_1.js"></script>
+	  <script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	
+
+	 
+	 <script type="application/javascript">
+  function functionsOnLoad(){
+    var canvas2 = document.getElementById('myCanvas2'); 
+    var context2 = canvas2.getContext('2d');
+	Higher_Math_chapter_1_1_Q_6(context2,20,20,250,20,250,200,20,200);
+   
+}
+
+</script>
+
+
+<title> Chapter 2.1 Question 12</title>
+</head>
+<body onload="functionsOnLoad();">
+<span class ="topic_explanation_color">
+১.১.১। <span class ="question_color">ভেনচিত্রে A এবং B  সেটের উপাদানগুলো দেখানো হয়েছে। যদি  $n(A) =  n(B ) $ হয়, তবে নির্ণয় কর <BR>
+(a) $x $  এর মান <BR>
+(b) $n(A ∪B ) $ এবং  $n(A ∩B^' ) $
+  </span>
+<BR><BR>
+
+
+
+<canvas id="myCanvas2" width="250" height="220">
+	<p>Your browser does not support HTML5 canvas.</p>
+</canvas>
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+<span class ="question_color"> 
+(a) $x $  এর মান <BR>
+</span><BR>
+
+এখানে,<BR>
+<span class ="reason_color">
+ n(A) হল A সেটের উপাদান সংখ্যা। <BR>
+  n(B) হল B সেটের উপাদান সংখ্যা। <BR>
+  </span>
+  অতএব,<BR>
+   $n(A) = 3x+x$ <BR>
+   $n(B) = 2x+8+x$ <BR>
+   <BR>
+  <span class ="reason_color"> শর্তানুসারে,</span><BR>
+    $n(A) = n(B)$<BR>
+    বা, $ 3x+x = 2x+8+x$ <BR>
+     বা, $ 3x+x-2x-x = 8$ <BR>
+          বা, <span class ="decision_result_color"> $ x = 8$</span> <BR>
+
+	  <BR>
+	  
+	  <span class ="question_color"> 
+(b) $n(A ∪B ) $ এবং  $n(A ∩B^' ) $
+</span><BR>
+<span class ="reason_color">আমরা জানি,</span><BR>
+$n(A ∪B )  = n(A)+ n(B) - n(A ∩B)$<BR>
+
+
+এখানে,<BR>
+<span class ="reason_color">
+ n(A ∩B)  হল A এবং B সেটের  সাধারণ উপাদান সংখ্যা। <BR>
+  </span>
+  অতএব,<BR>
+  $ n(A ∩B) = x $<BR>
+   
+  <span class ="reason_color"> মান বসিয়ে পাই,</span><BR>
+  $n(A ∪B )  =  3x+x+ 2x+8+x - x$<BR>
+  = $6x+8$<BR><BR>
+    <span class ="reason_color"> $x=8 $ মান বসিয়ে পাই,</span><BR>
+      $n(A ∪B )   = 6&times;8+8$<BR>
+      = $48+8$<BR>
+      =<span class ="decision_result_color">$56$</span><BR>
+  <BR>
+  
+  এবং<BR>
+  $n(A ∩B^' ) =  n(A) - n(A ∩B)$<BR>
+   <span class ="reason_color"> মান বসিয়ে পাই,</span><BR>
+   =3x+x-x<BR>
+   =3x<BR>
+    =$3&times;8$<BR>
+    =<span class ="decision_result_color">$24$</span><BR>
+
+</span>
+</body>
+</html>

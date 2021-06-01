@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<head>
+	<meta charset="utf-8">
+	
+	<!--
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+	-->
+	<link rel="stylesheet" type="text/css" href="../../css/jqmath-0.4.3.css">
+	<link rel="stylesheet" type="text/css" href="../../css/app_style.css">
+	
+	<script src="../../mathscribe/jquery-1.4.3.min.js"></script>
+	<script src="../../mathscribe/jqmath-etc-0.4.4.min.js" charset="utf-8"></script>
+	<script src="../../js/Triangle.js"></script>
+	<script src ="../../js/graph.js"></script>
+	<script src ="../../js/PointLine.js"></script>
+	<script src ="../../js/Higher_Math_chapter_3_1.js"></script>
+   <script>M.MathPlayer = false; M.trustHtml = true;</script> 
+   
+<title>Math class Nine Ten Chapter 1. Question 7</title>
+<script type="application/javascript">
+function drawQuestionOnLoad(){
+
+ var canvas2 = document.getElementById('myCanvas2'); // canvas with id="myCanvas"
+ var context2 = canvas2.getContext('2d');
+  Higher_Math_chapter_3_1_Q_7(context2, 100,25,20,110,180,110,true,100);
+   
+}
+
+</script>
+</head>
+<body onload="drawQuestionOnLoad();">
+<span class ="explanation_result_color">
+৩.১.৭। <span class ="question_color">∆ABC এর মধ্যমাত্রয় G  বিন্দুতে মিলিত হলে প্রমাণ কর যে,<BR>
+$AB^2+BC^2+CA^2=3 (GA^2+GB^2+GC^2) $<BR>
+  <span>
+
+<BR>
+<canvas id="myCanvas2" width="230" height="170">
+	<p>Your browser does not support HTML5 canvas.</p></canvas>
+<BR>
+<span class ="solveColor">সমাধান:</span><BR>
+
+<font color = "blue">ব্যাখ্যা:</font><BR>
+<span class ="topic_explanation_color">
+<ul class="liststyle">
+<li> ABC একটি ত্রিভুজ। 
+<li> AD,BE,CF ত্রিভুজের তিনটি মধ্যমা। 
+<li> মধ্যমাত্রয় G  বিন্দুতে ছেদ করে।
+
+<li>  প্রমান করতে হবে  যে,<span class ="decision_result_color"> $AB^2+BC^2+CA^2=3 (GA^2+GB^2+GC^2) $</span><BR>
+
+</ul>
+<BR>
+</span>
+
+<BR>
+
+<span class ="decision_result_color">প্রমান:</span><BR>
+<span class ="topic_explanation_color">
+
+<span class ="reason_color">∆ABC ত্রিভুজের AD, BC বাহুর উপর মধ্যমা। এ্যাপোলোনিয়াসের  উপপাদ্য অনুযায়ী,</span><BR>
+বা, $AB^2+AC^2 = 2AD^2+2BD^2 $<BR>
+বা, $AB^2+AC^2=2AD^2+2 ({BC}/2)^2$<BR>
+বা, $AB^2+AC^2=2AD^2+ {2 {BC}^2}/4$<BR>
+বা, $AB^2+AC^2=2AD^2+{BC}^2/2 $<BR>
+বা, $ 2AB^2+2AC^2=4AD^2 +BC^2$ <BR>
+
+বা,  <span class ="decision_result_color">$ 2AB^2+2AC^2-BC^2=4AD^2$....(1)</span> <BR><BR>
+
+<span class ="reason_color">অনুরূপভাবে,</span><BR>
+$2AB^2+2BC^2-AC^2=4BE^2$......(2)<BR>
+$2BC^2+2AC^2-AB^2=4CF^2$.....(3)<BR><BR>
+
+<span class ="reason_color">(1) (2) ও (3) সমীকরণ যোগ করিয়া পাই,</span><BR>
+<span class ="decision_result_color">$3AB^2+3BC^2+3AC^2=4 AD^2+4BE^2+4CF^2) $.......(4) </span><BR><BR>
+
+
+
+ <span class ="reason_color">ত্রিভুজের মধ্যমার ছেদবিন্দু ও মধ্যমার সম্পর্ক থেকে আমরা জানি,</span><BR>
+ 
+ $AG =2/3 AD $<BR>
+বা, $AD= 3/2 AG $<BR>
+বা, $AD^2 =9/4 AG^2$<BR>
+বা,  $4AD^2= 9AG^2$<BR><BR>
+
+<span class ="reason_color">অনুরূপভাবে,</span><BR>
+$4BE^2=9BG^2$<BR>
+$4CE^2=9CG^2$<BR>
+<span class ="reason_color">(4) সমীকরণ এ মান সমূহ বসিয়ে পাই,</span><BR>
+
+$3AB^2+3BC^2+3AC^2=9AG^2+9BG^2+9CG^2$<BR>
+<span class ="decision_result_color">$AB^2+BC^2+AC^2= 3 (AG^2+BG^2+CG^2) $</span> (প্রমাণিত)<BR>
+
+ 
+</span>
+
+<BR><BR><BR><BR>
+</body>
+</html>

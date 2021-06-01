@@ -1,0 +1,203 @@
+
+
+@font-face {
+    font-family: MyFont;
+    src: url("file:///android_asset/font/vrinda.ttf")
+}
+
+@font-face {
+    font-family: me_quran;
+    src: url("file:///android_asset/font/me_quran.ttf")
+}
+
+@font-face {
+    font-family: me_latif;
+    src: url("file:///android_asset/font/BFerdosi.ttf")
+}
+
+.topic_background{
+   background-color: #FFF8DC
+}
+
+.body_background{
+   background-color: #E0FFFF
+}
+.quran_ayat{
+    font-family: me_latif;
+	color:#008000; 
+	font-size:40px;
+}
+
+.quran_ayat_meaning{
+    color:maroon;
+}
+
+.pronounciation{
+    color:#0000cd;
+}
+
+.hadith{
+
+    color:#0000cd;
+}
+
+.hadith_pronounciation{
+    color:#800080;
+}
+
+.hadith_arabic{
+font-family: me_latif;
+font-size:35px;
+    color:#006400;
+}
+
+
+
+.hadith_meaning{
+    color:maroon;
+}
+
+.note{
+    color:#005A59;
+}
+.calculator_color{
+    color:#CD853F;
+}
+
+.question_color{
+    color:blue;
+}
+
+ .question_value_color {
+   color: purple;
+}	
+
+.sub_question_color {
+   color: purple;
+}
+
+.decision_color{
+    color:#808000;
+}
+
+.decision_result_color{
+    color:blue;
+}
+
+.answer_color{
+    color:green;
+}
+.solveColor{
+    color:green;
+}
+.prodotto_rashi_color{
+    color:#808000;
+}
+
+
+
+
+
+.formula_color{
+    color: #006400;
+}
+
+
+.formula_color_2{
+    color: #808000;
+}
+
+
+
+
+body {
+    font-family: MyFont;
+    font-size: large;
+    text-align: left;
+}
+
+.liststyle {
+    list-style-image: url("../images/greenbullet.png") ;
+	margin-top:0;
+	margin-bottom:0;
+}
+.topic_header_color {
+   color: red;
+}
+.result_justification_color {
+   color: #005A59;
+}
+
+.topic_step_color {
+   color: #005A59;
+}
+
+
+.topic_explanation_color {
+   color: #005A59;
+}
+
+.explanation_result_color {
+   color: purple;
+}
+
+.step_result_color {
+   color: purple;
+}
+
+.proof_color {
+   color: blue;
+}
+.topic_explanation_header {
+   color: blue;
+}	
+.table_title_color {
+   color: purple;
+}
+
+.reason_color {
+   color: #C51162;
+}
+
+.given_value_color_2 {
+   color: blue;
+}	
+ .given_value_color {
+   color: purple;
+}	
+
+ .given_value_color_2 {
+   color: purple;
+}
+
+ .value_setting_text_color {
+   color: #9C27B0;
+}
+
+.ateb_color {
+   color:#008B8B;
+}
+
+
+
+
+
+.topic_ayat_meaning {
+   color: maroon;
+}	
+
+.table_bgcolor{
+   bgcolor: #E1BEE7;
+}
+
+.strike{
+ text-decoration: line-through;
+-webkit-transform: rotate(344deg);
+-moz-transform: rotate(344deg);
+-o-transform: rotate(344deg);
+}
+
+.strikediag {
+  background: linear-gradient(to left top, transparent 47.75%, currentColor 49.5%, currentColor 50.5%, transparent 52.25%);
+}
+
