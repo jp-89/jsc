@@ -1,124 +1,49 @@
 {
-  "tt": [
+  "bangla": [
     {
-      "title": "১। আমাদের কথা",
-      "path": "ban1.pdf"
-    },
-    {
-      "title": "২। আমাদের পরিবার ও আমাদের প্রতিবেশী",
-      "path": "ban2.pdf"
-    },
-    {
-      "title": "৩। মজার ব্যাকরণ",
-      "path": "ban3.pdf"
-    },
-    {
-      "title": "৪। আমার পটু কালিচ্ছি",
-      "path": "ban4.pdf"
-    },
-    {
-      "title": "৫। আমার পটু কালিচ্ছি",
-      "path": "ban5.pdf"
-    },
-    {
-      "title": "৬। দেশে ঘুরে কাজ করি",
-      "path": "ban6.pdf"
-    },
-    {
-      "title": "৭। ঘাসফুলে ভরা পিপড়ার গল্প",
+      "title": "Chapter 7",
       "path": "ban7.pdf"
     },
     {
-      "title": "৮। আমি হব",
+      "title": "Chapter 8",
       "path": "ban8.pdf"
     },
     {
-      "title": "৯। ব্যাঙের সাথে",
-      "path": "ban9.pdf"
+      "title": "Chapter 9",
+      "path": "ban9.pdf",
+      "": {}
+    }
+  ],
+  "biggan": [
+    {
+      "title": "chapter 1",
+      "path": "big1.pdf"
     },
     {
-      "title": "১০। বাক্য পড়ি ও লিখি",
-      "path": "ban10.pdf"
+      "title": "chapter 2",
+      "path": "big2.pdf"
     },
     {
-      "title": "১১। আনন্দ দিন",
-      "path": "ban11.pdf"
+      "title": "Chapter 3",
+      "path": "big3.pdf"
+    }
+  ],
+  "bangladesh": [
+    {
+      "title": "Unit jp",
+      "path": "bb1.pdf"
     },
     {
-      "title": "১২। বনভোজ একদিন",
-      "path": "ban12.pdf"
+      "title": "Unit jp kk",
+      "path": "bb2.pdf"
     },
     {
-      "title": "১৩। আমাদের গ্রাম",
-      "path": "ban13.pdf"
+      "title": "Unit jp ll",
+      "path": "bb3.pdf"
     },
     {
-      "title": "১৪। নদীর দেশ",
-      "path": "ban14.pdf"
-    },
-    {
-      "title": "১৫। ছড়া-জিতের গল্প",
-      "path": "ban15.pdf"
-    },
-    {
-      "title": "১৬। হাসি",
-      "path": "ban16.pdf"
-    },
-    {
-      "title": "১৭। আমাদের উৎসব",
-      "path": "ban17.pdf"
-    },
-    {
-      "title": "১৮। রাষ্ট্রভাষা বাংলা চাই",
-      "path": "ban18.pdf"
-    },
-    {
-      "title": "১৯। আদর্শ শিশু",
-      "path": "ban19.pdf"
-    },
-    {
-      "title": "২০। ঢাকার মসজিদ",
-      "path": "ban20.pdf"
-    },
-    {
-      "title": "২১। হরতাল আর অবরোধ (রা)",
-      "path": "ban21.pdf"
-    },
-    {
-      "title": "২২। আমাদের গল্প",
-      "path": "ban22.pdf"
-    },
-    {
-      "title": "২৩। মানব জয়ের গল্প",
-      "path": "ban23.pdf"
-    },
-    {
-      "title": "২৪। তলপাই",
-      "path": "ban24.pdf"
-    },
-    {
-      "title": "২৫। রবীন্দ্রনাথ ঠাকুরের ছেলেবেলা",
-      "path": "ban25.pdf"
-    },
-    {
-      "title": "২৬। আদর্শ ছেলে",
-      "path": "ban26.pdf"
-    },
-    {
-      "title": "২৭। মুক্তিযুদ্ধে রাজাকার",
-      "path": "ban27.pdf"
-    },
-    {
-      "title": "২৮। নিরাপদ সড়ক চলি",
-      "path": "ban28.pdf"
-    },
-    {
-      "title": "২৯। প্রতিবন্ধীদের জন্য লিখি",
-      "path": "ban29.pdf"
-    },
-    {
-      "title": "৩০। শব্দ ভাণ্ডার",
-      "path": "ban30.pdf"
+      "title": "Unit jp dd",
+      "path": "bb4.pdf"
     }
   ]
 }
