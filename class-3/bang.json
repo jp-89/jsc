@@ -1,49 +1,27 @@
-{
-  "bangla": [
-    {
-      "title": "Chapter 7",
-      "path": "ban7.pdf"
-    },
-    {
-      "title": "Chapter 8",
-      "path": "ban8.pdf"
-    },
-    {
-      "title": "Chapter 9",
-      "path": "ban9.pdf",
-      "": {}
-    }
-  ],
-  "biggan": [
-    {
-      "title": "chapter 1",
-      "path": "big1.pdf"
-    },
-    {
-      "title": "chapter 2",
-      "path": "big2.pdf"
-    },
-    {
-      "title": "Chapter 3",
-      "path": "big3.pdf"
-    }
-  ],
-  "bangladesh": [
-    {
-      "title": "Unit jp",
-      "path": "bb1.pdf"
-    },
-    {
-      "title": "Unit jp kk",
-      "path": "bb2.pdf"
-    },
-    {
-      "title": "Unit jp ll",
-      "path": "bb3.pdf"
-    },
-    {
-      "title": "Unit jp dd",
-      "path": "bb4.pdf"
-    }
-  ]
-}
+[
+  {
+    "subject": "bangla",
+    "chapters": [
+      { "title": "Chapter 7", "path": "ban7.pdf" },
+      { "title": "Chapter 8", "path": "ban8.pdf" },
+      { "title": "Chapter 9", "path": "ban9.pdf" }
+    ]
+  },
+  {
+    "subject": "biggan",
+    "chapters": [
+      { "title": "Chapter 1", "path": "big1.pdf" },
+      { "title": "Chapter 2", "path": "big2.pdf" },
+      { "title": "Chapter 3", "path": "big3.pdf" }
+    ]
+  },
+  {
+    "subject": "bangladesh",
+    "chapters": [
+      { "title": "Unit jp", "path": "bb1.pdf" },
+      { "title": "Unit jp kk", "path": "bb2.pdf" },
+      { "title": "Unit jp ll", "path": "bb3.pdf" },
+      { "title": "Unit jp dd", "path": "bb4.pdf" }
+    ]
+  }
+]
