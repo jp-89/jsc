@@ -16,6 +16,14 @@
     ]
   },
   {
+    "subject": "ইসলাম",
+    "chapters": [
+      { "title": "Chapter 1", "path": "big4.pdf" },
+      { "title": "Chapter 2", "path": "big5.pdf" },
+      { "title": "Chapter 3", "path": "big8.pdf" }
+    ]
+  },
+  {
     "subject": "bangladesh",
     "chapters": [
       { "title": "Unit jp", "path": "bb1.pdf" },
@@ -25,3 +33,4 @@
     ]
   }
 ]
+
