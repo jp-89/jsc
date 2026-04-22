@@ -1,0 +1,581 @@
+[
+  {
+    "subject": "বাংলা",
+    "chapters": [
+      {
+        "title": "1.কাবুলিওয়ালা",
+        "path": "bangla1.pdf"
+      },
+      {
+        "title": "2.লখার একুশে",
+        "path": "bangla2.pdf"
+      },
+      {
+        "title": "3.মরু-ভাস্কর",
+        "path": "bangla3.pdf"
+      },
+      {
+        "title": "4.শব্দ থেকে কবিতা",
+        "path": "bangla4.pdf"
+      },
+      {
+        "title": "5.পাখি",
+        "path": "bangla5.pdf"
+      },
+      {
+        "title": "6.পিতৃপুরুষের গল্প",
+        "path": "bangla6.pdf"
+      },
+      {
+        "title": "7.ছবির রঙ",
+        "path": "bangla7.pdf"
+      },
+      {
+        "title": "8.সেই ছেলেটি",
+        "path": "bangla8.pdf"
+      },
+      {
+        "title": "9.বহু জাতিসত্তার দেশ- বাংলাদেশ",
+        "path": "bangla9.pdf"
+      },
+      {
+        "title": "1.নতুন দেশ",
+        "path": "bangla10.pdf"
+      },
+      {
+        "title": "2.কুলি-মজুর",
+        "path": "bangla11.pdf"
+      },
+      {
+        "title": "3.আমার বাড়ি",
+        "path": "bangla12.pdf"
+      },
+      {
+        "title": "4.শ্রাবণে",
+        "path": "bangla13.pdf"
+      },
+      {
+        "title": "5.গরবিনী মা-জননী",
+        "path": "bangla14.pdf"
+      },
+      {
+        "title": "6.সাম্য",
+        "path": "bangla15.pdf"
+      },
+      {
+        "title": "7.মেলা",
+        "path": "bangla16.pdf"
+      },
+      {
+        "title": "8.এই অক্ষরে",
+        "path": "bangla17.pdf"
+      },
+      {
+        "title": "9.সিঁথি",
+        "path": "bangla18.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "আনন্দপাঠ",
+    "chapters": [
+      {
+        "title": "তোতা-কাহিনি",
+        "path": "an1.pdf"
+      },
+      {
+        "title": "জিদ",
+        "path": "an2.pdf"
+      },
+      {
+        "title": "খুদে গোয়েন্দার অভিযান",
+        "path": "an3.pdf"
+      },
+      {
+        "title": "দীক্ষা",
+        "path": "an4.pdf"
+      },
+      {
+        "title": "পদ্য লেখার জোরে",
+        "path": "an5.pdf"
+      },
+      {
+        "title": "কোকিল",
+        "path": "an6.pdf"
+      },
+      {
+        "title": "কিং লিয়ার",
+        "path": "an7.pdf"
+      },
+      {
+        "title": "যুদ্দ্বক্ষেত্রে পিতাপুত্র",
+        "path": "an8.pdf"
+      },
+      {
+        "title": "নাটিকা-  জাগো সুন্দর",
+        "path": "an9.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "বাংলা ব্যাকরণ ও নির্মিতি",
+    "chapters": [
+      {
+        "title": "1.ভাষা",
+        "path": "bekoron1.pdf"
+      },
+      {
+        "title": "2.ব্যাকরণ",
+        "path": "bekoron2.pdf"
+      },
+      {
+        "title": "3.ধ্বনি ও বর্ণ",
+        "path": "bekoron3.pdf"
+      },
+      {
+        "title": "4.সন্ধি",
+        "path": "bekoron4.pdf"
+      },
+      {
+        "title": "5.শব্দ ও পদ",
+        "path": "bekoron5.pdf"
+      },
+      {
+        "title": "6.শব্দগঠন",
+        "path": "bekoron6.pdf"
+      },
+      {
+        "title": "7.বাক্য",
+        "path": "bekoron7.pdf"
+      },
+      {
+        "title": "8.বিরামচিহ্ন",
+        "path": "bekoron8.pdf"
+      },
+      {
+        "title": "9.বানান",
+        "path": "bekoron9.pdf"
+      },
+      {
+        "title": "10.শব্দার্থ",
+        "path": "bekoron10.pdf"
+      },
+      {
+        "title": "11.নির্মিতি অংশ",
+        "path": "bekoron11.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "chapters": [
+      {
+        "title": "Seen Passage",
+        "path": "english1.pdf"
+      },
+      {
+        "title": "Unseen Passage",
+        "path": "english2.pdf"
+      },
+      {
+        "title": "Gap Filling with Clues",
+        "path": "english3.pdf"
+      },
+      {
+        "title": "Matching",
+        "path": "english4.pdf"
+      },
+      {
+        "title": "Rearrange",
+        "path": "english5.pdf"
+      },
+      {
+        "title": "Completing Story",
+        "path": "english6.pdf"
+      },
+      {
+        "title": "Letter Writing",
+        "path": "english7.pdf"
+      },
+      {
+        "title": "Dialogue",
+        "path": "english8.pdf"
+      },
+      {
+        "title": "Paragraph Writing",
+        "path": "english9.pdf"
+      },
+      {
+        "title": "SOLUTION TO MODEL QUESTIONS",
+        "path": "english10.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "English Grammar",
+    "chapters": [
+      {
+        "title": "Model Question",
+        "path": "en2p1.pdf"
+      },
+      {
+        "title": "Model Answer and Solution",
+        "path": "en2p2.pdf"
+      },
+      {
+        "title": "Formal Letter",
+        "path": "en2p3.pdf"
+      },
+      {
+        "title": "E-mail",
+        "path": "en2p4.pdf"
+      },
+      {
+        "title": "Composition",
+        "path": "en2p5.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "গণিত",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায় - মূলদ ও অমূলদ সংখ্যা",
+        "path": "math1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায় - সমানুপাত ও লাভ ক্ষতি",
+        "path": "math2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায় - পরিমাপ",
+        "path": "math3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায় - বীজগণিতীয় রাশির গুণ ও ভাগ",
+        "path": "math4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায় - বীজগণিতীয় সূত্রাবলি ও প্রয়োগ",
+        "path": "math5.pdf"
+      },
+      {
+        "title": "ষষ্ঠ অধ্যায় - বীজগণিতীয় ভগ্নাংশ",
+        "path": "math6.pdf"
+      },
+      {
+        "title": "সপ্তম অধ্যায় - সরল সমীকরণ",
+        "path": "math7.pdf"
+      },
+      {
+        "title": "অষ্টম অধ্যায় - সমান্তরাল সরলরেখা",
+        "path": "math8.pdf"
+      },
+      {
+        "title": "নবম অধ্যায় - ত্রিভুজ",
+        "path": "math9.pdf"
+      },
+      {
+        "title": "দশম অধ্যায় - সর্বসমতা ও সদৃশতা",
+        "path": "math10.pdf"
+      },
+      {
+        "title": "একাদশ অধ্যায় - তথ্য ও উপাত্ত",
+        "path": "math11.pdf"
+      },
+      {
+        "title": "উত্তরমালা",
+        "path": "math12.pdf"
+      },
+      {
+        "title": "পরিশিষ্ট",
+        "path": "math13.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "বিজ্ঞান",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "biggan1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "biggan2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "biggan3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "biggan4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "biggan5.pdf"
+      },
+      {
+        "title": "ষষ্ঠ অধ্যায়",
+        "path": "biggan6.pdf"
+      },
+      {
+        "title": "সপ্তম অধ্যায়",
+        "path": "biggan7.pdf"
+      },
+      {
+        "title": "অষ্টম অধ্যায়",
+        "path": "biggan8.pdf"
+      },
+      {
+        "title": "নবম অধ্যায়",
+        "path": "biggan9.pdf"
+      },
+      {
+        "title": "দশম অধ্যায়",
+        "path": "biggan10.pdf"
+      },
+      {
+        "title": "একাদশ অধ্যায়",
+        "path": "biggan11.pdf"
+      },
+      {
+        "title": "দ্বাদশ অধ্যায়",
+        "path": "biggan12.pdf"
+      },
+      {
+        "title": "ত্রয়োদশ অধ্যায়",
+        "path": "biggan13.pdf"
+      },
+      {
+        "title": "চতুর্দশ অধ্যায়",
+        "path": "biggan14.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "bangladesh1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "bangladesh2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "bangladesh3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "bangladesh4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "bangladesh5.pdf"
+      },
+      {
+        "title": "ষষ্ঠ অধ্যায়",
+        "path": "bangladesh6.pdf"
+      },
+      {
+        "title": "সপ্তম অধ্যায়",
+        "path": "bangladesh7.pdf"
+      },
+      {
+        "title": "অষ্টম অধ্যায়",
+        "path": "bangladesh8.pdf"
+      },
+      {
+        "title": "নবম অধ্যায়",
+        "path": "bangladesh9.pdf"
+      },
+      {
+        "title": "দশম অধ্যায়",
+        "path": "bangladesh10.pdf"
+      },
+      {
+        "title": "একাদশ অধ্যায়",
+        "path": "bangladesh11.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "তথ্য ও যোগাযোগ প্রযুক্তি",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "ict1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "ict2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "ict3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "ict4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "ict5.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "কর্ম ও জীবনমুখী শিক্ষা",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "kormo1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "kormo2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "kormo3.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "গার্হস্থ্য বিজ্ঞান",
+    "chapters": [
+      {
+        "title": "ক বিভাগ",
+        "path": "gahosto1.pdf"
+      },
+      {
+        "title": "খ বিভাগ",
+        "path": "gahosto2.pdf"
+      },
+      {
+        "title": "গ বিভাগ",
+        "path": "gahosto3.pdf"
+      },
+      {
+        "title": "ঘ বিভাগ",
+        "path": "gahosto4.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "ইসলাম শিক্ষা",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "islam1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "islam2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "islam3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "islam4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "islam5.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "চারু ও কারুকলা",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "caru1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "caru2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "caru3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "caru4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "caru5.pdf"
+      },
+      {
+        "title": "ষষ্ঠ অধ্যায়",
+        "path": "caru6.pdf"
+      },
+      {
+        "title": "রঙ ও রঙের ব্যবহার",
+        "path": "caru7.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "saririk1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "saririk2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "saririk3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "saririk4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "saririk5.pdf"
+      }
+    ]
+  },
+  {
+    "subject": "কৃষি শিক্ষা",
+    "chapters": [
+      {
+        "title": "প্রথম অধ্যায়",
+        "path": "krishi1.pdf"
+      },
+      {
+        "title": "দ্বিতীয় অধ্যায়",
+        "path": "krishi2.pdf"
+      },
+      {
+        "title": "তৃতীয় অধ্যায়",
+        "path": "krishi3.pdf"
+      },
+      {
+        "title": "চতুর্থ অধ্যায়",
+        "path": "krishi4.pdf"
+      },
+      {
+        "title": "পঞ্চম অধ্যায়",
+        "path": "krishi5.pdf"
+      },
+      {
+        "title": "ষষ্ঠ অধ্যায়",
+        "path": "krishi6.pdf"
+      }
+    ]
+  }
+]
