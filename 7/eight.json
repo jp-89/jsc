@@ -1,0 +1,180 @@
+[
+  {
+    "subject": "সাহিত্য কণিকা",
+    "chapters": [
+      { "title": "অতিথির স্মৃতি", "path": "bang1.pdf" },
+      { "title": "ভাব ও কাজ", "path": "bang2.pdf" },
+      { "title": "পড়ে যাওয়া", "path": "bang3.pdf" },
+      { "title": "তৈলচিত্রের ভুত", "path": "bang4.pdf" },
+      { "title": "এবারের সংগ্রাম স্বাধীনতার সংগ্রাম", "path": "bang5.pdf" },
+      { "title": "আমাদের লোকশিল্প", "path": "bang6.pdf" },
+      { "title": "সুখী মানুষ", "path": "bang7.pdf" },
+      { "title": "শিল্পকলার নানা দিক", "path": "bang8.pdf" },
+      { "title": "মংডুর পথে", "path": "bang9.pdf" },
+      { "title": "বাংলা নববর্ষ", "path": "bang10.pdf" },
+      { "title": "বাংলা ভাষার জন্মকথা", "path": "bang11.pdf" },
+      { "title": "মানবধর্ম", "path": "bang12.pdf" },
+      { "title": "বঙ্গভূমির প্রতি", "path": "bang13.pdf" },
+      { "title": "দুই বিঘা জমি", "path": "bang14.pdf" },
+      { "title": "পাছে লোকে কিছু বলে", "path": "bang15.pdf" },
+      { "title": "প্রার্থনা", "path": "bang16.pdf" },
+      { "title": "বাবুরের মহত্ত্ব", "path": "bang17.pdf" },
+      { "title": "নারী", "path": "bang18.pdf" },
+      { "title": "আবার আসিব ফিরে", "path": "bang19.pdf" },
+      { "title": "রুপাই", "path": "bang20.pdf" },
+      { "title": "নদীর স্বপ্ন", "path": "bang21.pdf" },
+      { "title": "জাগো তবে অরণ্য কন্যারা", "path": "bang22.pdf" },
+      { "title": "প্রার্থী", "path": "bang23.pdf" },
+      { "title": "একুশের গান", "path": "bang24.pdf" }
+    ]
+  },
+  {
+    "subject": "বাংলা ২য় পত্র",
+    "chapters": [
+      { "title": "অবজেক্টিভ", "path": "Ban_Two_Objective.pdf" },
+      { "title": "লিখিত", "path": "Ban_Two_Writing.pdf" }
+    ]
+  },
+  {
+    "subject": "English 1st Paper",
+    "chapters": [
+      { "title": "SEEN PASSAGE", "path": "eng1.pdf" },
+      { "title": "UNSEEN PAASSAGE", "path": "eng2.pdf" },
+      { "title": "CLOZE TEST WITHOUT CLUES", "path": "eng3.pdf" },
+      { "title": "DIALOGUE", "path": "eng4.pdf" },
+      { "title": "PARAGRAPH", "path": "eng5.pdf" },
+      { "title": "COMPLETING STORY", "path": "eng6.pdf" },
+      { "title": "LETTER", "path": "eng7.pdf" }
+    ]
+  },
+  {
+    "subject": "English 2nd Paper",
+    "chapters": [
+      { "title": "QUESTION 1-4", "path": "eng_t1.pdf" },
+      { "title": "QUESTION 5-8", "path": "eng_t2.pdf" },
+      { "title": "ANSWER 1", "path": "eng_t3.pdf" },
+      { "title": "ANSWER 2", "path": "eng_t4.pdf" },
+      { "title": "APPLICATION", "path": "eng_t5.pdf" },
+      { "title": "COMPOSITION", "path": "eng_t6.pdf" },
+      { "title": "GRAMMER 1-5", "path": "eng_t7.pdf" },
+      { "title": "GRAMMER 6-12", "path": "eng_t8.pdf" }
+    ]
+  },
+  {
+    "subject": "গণিত",
+    "chapters": [
+      { "title": "অধ্যায় ১", "path": "math1.pdf" },
+      { "title": "অধ্যায় ২.১", "path": "math2.pdf" },
+      { "title": "অধ্যায় ২.২", "path": "math3.pdf" },
+      { "title": "অধ্যায় ৩", "path": "math4.pdf" },
+      { "title": "অধ্যায় ৪.১", "path": "math5.pdf" },
+      { "title": "অধ্যায় ৪.২", "path": "math6.pdf" },
+      { "title": "অধ্যায় ৪.৩", "path": "math7.pdf" },
+      { "title": "অধ্যায় ৪.৪", "path": "math8.pdf" },
+      { "title": "অধ্যায় ৫.১", "path": "math9.pdf" },
+      { "title": "অধ্যায় ৫.২", "path": "math10.pdf" },
+      { "title": "অধ্যায় ৬.১", "path": "math11.pdf" },
+      { "title": "অধ্যায় ৬.২", "path": "math12.pdf" },
+      { "title": "অধ্যায় ৭", "path": "math13.pdf" },
+      { "title": "অধ্যায় ৮.১", "path": "math14.pdf" },
+      { "title": "অধ্যায় ৮.২", "path": "math15.pdf" },
+      { "title": "অধ্যায় ৯", "path": "math16.pdf" },
+      { "title": "অধ্যায় ১০.১", "path": "math17.pdf" },
+      { "title": "অধ্যায় ১০.২", "path": "math18.pdf" },
+      { "title": "অধ্যায় ১০.৩", "path": "math19.pdf" },
+      { "title": "অধ্যায় ১১", "path": "math20.pdf" }
+    ]
+  },
+  {
+    "subject": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "bgs1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "bgs2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "bgs3.pdf" },
+      { "title": "চতুর্থ অধ্যায়", "path": "bgs4.pdf" },
+      { "title": "পঞ্চম অধ্যায়", "path": "bgs5.pdf" },
+      { "title": "ষষ্ঠ অধ্যায়", "path": "bgs6.pdf" },
+      { "title": "সপ্তম অধ্যায়", "path": "bgs7.pdf" },
+      { "title": "অষ্টম অধ্যায়", "path": "bgs8.pdf" },
+      { "title": "নবম অধ্যায়", "path": "bgs9.pdf" },
+      { "title": "দশম অধ্যায়", "path": "bgs10.pdf" },
+      { "title": "একাদশ অধ্যায়", "path": "bgs11.pdf" },
+      { "title": "দ্বাদশ অধ্যায়", "path": "bgs12.pdf" },
+      { "title": "ত্রয়োদশ অধ্যায়", "path": "bgs13.pdf" }
+    ]
+  },
+  {
+    "subject": "ICT",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "ict1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "ict2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "ict3.pdf" },
+      { "title": "চতুর্থ অধ্যায়", "path": "ict44.pdf" },
+      { "title": "পঞ্চম অধ্যায়", "path": "ict5.pdf" }
+    ]
+  },
+  {
+    "subject": "বিজ্ঞান",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "science1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "science2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "science3.pdf" },
+      { "title": "চতুর্থ অধ্যায়", "path": "science4.pdf" },
+      { "title": "পঞ্চম অধ্যায়", "path": "science5.pdf" },
+      { "title": "ষষ্ঠ অধ্যায়", "path": "science6.pdf" },
+      { "title": "সপ্তম অধ্যায়", "path": "science7.pdf" },
+      { "title": "অষ্টম অধ্যায়", "path": "science8.pdf" },
+      { "title": "নবম অধ্যায়", "path": "science9.pdf" },
+      { "title": "দশম অধ্যায়", "path": "science10.pdf" },
+      { "title": "একাদশ অধ্যায়", "path": "science11.pdf" },
+      { "title": "দ্বাদশ অধ্যায়", "path": "science12.pdf" },
+      { "title": "ত্রয়োদশ অধ্যায়", "path": "science13.pdf" },
+      { "title": "চতুর্দশ অধ্যায়", "path": "science14.pdf" }
+    ]
+  },
+  {
+    "subject": "কৃষি শিক্ষা",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "agriculture1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "agriculture2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "agriculture3.pdf" },
+      { "title": "চতুর্থ অধ্যায়", "path": "agriculture4.pdf" },
+      { "title": "পঞ্চম অধ্যায়", "path": "agriculture5.pdf" },
+      { "title": "ষষ্ঠ অধ্যায়", "path": "agriculture6.pdf" }
+    ]
+  },
+  {
+    "subject": "ইসলাম শিক্ষা",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "islam1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "islam2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "islam3.pdf" },
+      { "title": "চতুর্থ অধ্যায়", "path": "islam4.pdf" },
+      { "title": "পঞ্চম অধ্যায়", "path": "islam5.pdf" }
+    ]
+  },
+  {
+    "subject": "শারিরীক শিক্ষা",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "saririk1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "saririk2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "saririk3.pdf" },
+      { "title": "চতুর্থ অধ্যায়", "path": "saririk4.pdf" },
+      { "title": "পঞ্চম অধ্যায়", "path": "saririk5.pdf" }
+    ]
+  },
+  {
+    "subject": "কর্ম ও জীবনমুখী শিক্ষা",
+    "chapters": [
+      { "title": "প্রথম অধ্যায়", "path": "kormo1.pdf" },
+      { "title": "দ্বিতীয় অধ্যায়", "path": "kormo2.pdf" },
+      { "title": "তৃতীয় অধ্যায়", "path": "kormo3.pdf" }
+    ]
+  },
+  {
+    "subject": "চারু ও কারুকলা",
+    "chapters": [
+      { "title": "অবজেক্টিভ", "path": "charu1.pdf" }
+    ]
+  }
+]
