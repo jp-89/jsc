@@ -1,0 +1,76 @@
+[
+  {
+    "subject": "পদার্থ বিজ্ঞান",
+    "chapters": [
+      { "title": "ভৌত রাশি এবং পরিমাপ", "path": "phy1.pdf" },
+      { "title": "গতি", "path": "phy2.pdf" },
+      { "title": "বল", "path": "phy3.pdf" },
+      { "title": "কাজ, ক্ষমতা ও শক্তি", "path": "phy4.pdf" },
+      { "title": "পদার্থের অবস্থা ও চাপ", "path": "phy5.pdf" },
+      { "title": "বস্তুর ওপর তাপের প্রভাব", "path": "phy6.pdf" },
+      { "title": "তরঙ্গ ও শব্দ", "path": "phy7.pdf" },
+      { "title": "আলোর প্রতিফলন", "path": "phy8.pdf" },
+      { "title": "আলোর প্রতিসরণ", "path": "phy9.pdf" },
+      { "title": "স্থির বিদ্যুৎ", "path": "phy10.pdf" },
+      { "title": "চল বিদ্যুৎ", "path": "phy11.pdf" },
+      { "title": "বিদ্যুতের চৌম্বক ক্রিয়া", "path": "phy12.pdf" },
+      { "title": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স", "path": "phy13.pdf" },
+      { "title": "জীবন বাঁচাতে পদার্থবিজ্ঞান", "path": "phy14.pdf" }
+    ]
+  },
+  {
+    "subject": "রসায়ন",
+    "chapters": [
+      { "title": "রসায়নের ধারণা", "path": "che1.pdf" },
+      { "title": "পদার্থের অবস্থা", "path": "che2.pdf" },
+      { "title": "পদার্থের গঠন", "path": "che3.pdf" },
+      { "title": "পর্যায় সারণি", "path": "che4.pdf" },
+      { "title": "রাসায়নিক বন্ধন", "path": "che5.pdf" },
+      { "title": "মোলের ধারণা ও রাসায়নিক গণনা", "path": "che6.pdf" },
+      { "title": "রাসায়নিক বিক্রিয়া", "path": "che7.pdf" },
+      { "title": "রসায়ন ও শক্তি", "path": "che8.pdf" },
+      { "title": "এসিড-ক্ষারক সমতা", "path": "che9.pdf" },
+      { "title": "খনিজ সম্পদঃ ধাতু- অধাতু", "path": "che10.pdf" },
+      { "title": "খনিজ সম্পদঃ জীবাশ্ম", "path": "che11.pdf" },
+      { "title": "আমাদের জীবনে রসায়ন", "path": "che12.pdf" }
+    ]
+  },
+  {
+    "subject": "জীববিজ্ঞান",
+    "chapters": [
+      { "title": "জীবন পাঠ", "path": "bio1.pdf" },
+      { "title": "জীবকোষ ও টিস্যু", "path": "bio2.pdf" },
+      { "title": "কোষ বিভাজন", "path": "bio3.pdf" },
+      { "title": "জীবনীশক্তি", "path": "bio4.pdf" },
+      { "title": "খাদ্য, পুষ্টি এবং পরিপাক", "path": "bio5.pdf" },
+      { "title": "জীবে পরিবহণ", "path": "bio6.pdf" },
+      { "title": "গ্যাসীয় বিনিময়", "path": "bio7.pdf" },
+      { "title": "রেচন প্রক্রিয়া", "path": "bio8.pdf" },
+      { "title": "দৃঢ়তা প্রদান ও চলন", "path": "bio9.pdf" },
+      { "title": "সমন্বয়", "path": "bio10.pdf" },
+      { "title": "জীবের প্রজনন", "path": "bio11.pdf" },
+      { "title": "জীবের বংশগতি ও বিবর্তন", "path": "bio12.pdf" },
+      { "title": "জীবের পরিবেশ", "path": "bio13.pdf" },
+      { "title": "জীবপ্রযুক্তি", "path": "bio14.pdf" }
+    ]
+  },
+  {
+    "subject": "উচ্চতর গণিত",
+    "chapters": [
+      { "title": "সেট ও ফাংশন", "path": "hmath1.pdf" },
+      { "title": "বীজগাণিতিক রাশি", "path": "hmath2.pdf" },
+      { "title": "জ্যামিতি", "path": "hmath3.pdf" },
+      { "title": "জ্যামিতিক অঙ্কন", "path": "hmath4.pdf" },
+      { "title": "সমীকরণ", "path": "hmath5.pdf" },
+      { "title": "অসমতা", "path": "hmath6.pdf" },
+      { "title": "অসীম ধারা", "path": "hmath7.pdf" },
+      { "title": "ত্রিকোণমিতি", "path": "hmath8.pdf" },
+      { "title": "সূচকীয় ও লগারিদমীয় ফাংশন", "path": "hmath9.pdf" },
+      { "title": "দ্বিপদী বিস্তৃতি", "path": "hmath10.pdf" },
+      { "title": "স্তানাঙ্ক জ্যামিতি", "path": "hmath11.pdf" },
+      { "title": "সমতলীয় ভেক্টর", "path": "hmath12.pdf" },
+      { "title": "ঘন জ্যামিতি", "path": "hmath13.pdf" },
+      { "title": "সম্ভাবনা", "path": "hmath14.pdf" }
+    ]
+  }
+]

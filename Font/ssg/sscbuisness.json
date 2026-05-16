@@ -1,0 +1,73 @@
+[
+  {
+    "subject": "হিসাব বিজ্ঞান",
+    "chapters": [
+      { "title": "হিসাব বিজ্ঞান পরিচিতি", "path": "acco1.pdf" },
+      { "title": "লেনদেন", "path": "acco2.pdf" },
+      { "title": "দুতরফা দাখিলা পদ্ধতি", "path": "acco3.pdf" },
+      { "title": "মূলধন ও মুনাফা জাতীয় লেনদেন", "path": "acco4.pdf" },
+      { "title": "হিসাব", "path": "acco5.pdf" },
+      { "title": "জাবেদা", "path": "acco6.pdf" },
+      { "title": "বখতিয়ান", "path": "acco7.pdf" },
+      { "title": "বনগদান বই", "path": "acco8.pdf" },
+      { "title": "রেওয়াতমিল", "path": "acco9.pdf" },
+      { "title": "আর্থিক বিবরণী", "path": "acco10.pdf" },
+      { "title": "পন্যের ক্রয় মূল্য, উতপাদন ব্যায় ও বিক্রয়মূল্য", "path": "acco11.pdf" },
+      { "title": "পারিবারিক ও আত্মকর্মসংস্থান মূলক উদ্যেগের হিসাব", "path": "acco12.pdf" }
+    ]
+  },
+  {
+    "subject": "ফিন্যান্স ও ব্যাংকিং",
+    "chapters": [
+      { "title": "অর্থায়ন ও ব্যবসায় অর্থায়ন", "path": "econo1.pdf" },
+      { "title": "অর্থায়নের উৎস", "path": "econo2.pdf" },
+      { "title": "শেয়ার, বন্ড ও ডিবেঞ্চার", "path": "econo3.pdf" },
+      { "title": "অর্থের সময়মূল্য", "path": "econo4.pdf" },
+      { "title": "ঝুঁকি ও অনিশ্চয়তা", "path": "econo5.pdf" },
+      { "title": "মূলধনি আয়-ব্যায় প্রাক্কলন", "path": "econo6.pdf" },
+      { "title": "মূলধন ব্যায়", "path": "econo7.pdf" },
+      { "title": "মুদ্রা, ব্যাংক ও ব্যাংকিং", "path": "econo8.pdf" },
+      { "title": "ব্যাংকিং ব্যবসায় ও তার ধরন", "path": "econo9.pdf" },
+      { "title": "বাণিজ্যিক ব্যাংক", "path": "econo10.pdf" },
+      { "title": "ব্যাংকের আমানত", "path": "econo11.pdf" },
+      { "title": "ব্যাংক ও গ্রাহক", "path": "econo12.pdf" },
+      { "title": "কেন্দ্রীয় ব্যাংক", "path": "econo13.pdf" }
+    ]
+  },
+  {
+    "subject": "ব্যবসায় উদ্যোগ",
+    "chapters": [
+      { "title": "ব্যবসায় পরিচিতি", "path": "uddog1.pdf" },
+      { "title": "ব্যবসায় উদ্যোগ ও উদোক্তা", "path": "uddog2.pdf" },
+      { "title": "আত্মকর্মসংস্থান", "path": "uddog3.pdf" },
+      { "title": "মালিকানার ভিত্তিতে ব্যবসায়", "path": "uddog4.pdf" },
+      { "title": "ব্যবসায়ের আইনগত দিক", "path": "uddog5.pdf" },
+      { "title": "ব্যবসায় পরিকল্পনা", "path": "uddog6.pdf" },
+      { "title": "বাংলাদেশের শিল্প", "path": "uddog7.pdf" },
+      { "title": "ব্যবসায় প্রতিষ্ঠানের ব্যবস্থাপনা", "path": "uddog8.pdf" },
+      { "title": "বিপণন", "path": "uddog9.pdf" },
+      { "title": "ব্যবসায় উদ্যোগ উন্নয়নে সহায়ক সেবা", "path": "uddog10.pdf" },
+      { "title": "ব্যবসায় নৈতিকতা ও সামাজিক দায়িত্ব", "path": "uddog11.pdf" },
+      { "title": "সফল উদ্যোক্তাদের জীবনী থেকে শিক্ষণীয়", "path": "uddog12.pdf" }
+    ]
+  },
+  {
+    "subject": "সাধারণ বিজ্ঞান",
+    "chapters": [
+      { "title": "উন্নততর জীবনধারা", "path": "sci1.pdf" },
+      { "title": "জীবনের জন্য পানি", "path": "sci2.pdf" },
+      { "title": "হৃদযন্ত্রের যত কথা", "path": "sci3.pdf" },
+      { "title": "নবজীবনের সূচনা", "path": "sci4.pdf" },
+      { "title": "দেখতে হলে আলো চাই", "path": "sci5.pdf" },
+      { "title": "পলিমার", "path": "sci6.pdf" },
+      { "title": "অম্ল, ক্ষারক ও লবণের ব্যবহার", "path": "sci7.pdf" },
+      { "title": "আমাদের সম্পদ", "path": "sci8.pdf" },
+      { "title": "দুর্যোগের সাথে বসবাস", "path": "sci9.pdf" },
+      { "title": "এসো বলকে জানি", "path": "sci10.pdf" },
+      { "title": "জীবপ্রযুক্তি", "path": "sci11.pdf" },
+      { "title": "প্রাত্যহিক জীবনে তড়িৎ", "path": "sci12.pdf" },
+      { "title": "সবাই কাছাকাছি", "path": "sci13.pdf" },
+      { "title": "জীবন বাঁচাতে বিজ্ঞান", "path": "sci14.pdf" }
+    ]
+  }
+]
